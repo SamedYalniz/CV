@@ -66,9 +66,9 @@ _German Abitur_ 1,3(AAA)<br>
 ------
 I asked my project group members for project and this is what I got back:
 
-___"When you don't know something, you learn it very fast especially with your research skills"___ - Joe Sweeney
+___"fast learner especially in combination with very good research skills"___ - Joe Sweeney
 
-___"An excellent problem solver, that's your thing"___  -Ogulcan Girginc
+___"An excellent problem solver, that's your thing!"___  -Ogulcan Girginc
 
 ----------
 
