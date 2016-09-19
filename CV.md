@@ -29,9 +29,8 @@ During my time at Makers Academy I learned how to think more like a programmer, 
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
-
 | Cocktales  [Github](https://github.com/Cocktales/cocktales) [Presentation](https://www.youtube.com/watch?v=ctKEx68N7DU)| Final project at Makers Academy. A web application to create cocktails, search for cocktails with specific ingredients and share your cocktail moments with your friends | Ruby on Rails, PostgreSQL | Capybara, Rspec |
-| MakersBnB|  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
+| MakersBnB |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 ## :mortar_board: <a name="education">Education</a>
 ---------
