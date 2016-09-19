@@ -64,7 +64,7 @@ _German Abitur_ 1,3(AAA)<br>
 
 ## <a name="reviews">Reviews</a>
 ------
-I asked my project group members for project and this is what I got back:
+I asked my project group members for feedback and this is what I got back:
 
 ___"fast learner especially in combination with very good research skills"___ - Joe Sweeney
 
