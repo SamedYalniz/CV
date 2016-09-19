@@ -4,11 +4,9 @@
 
 :pencil2: 
 
+ 
+As an Economics and Management student at King's College London and [Makers Academy] (http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, graduate, I can't wait to work as a junior web developer and have the world using my code. 
 
-I am an Economics and Management student at King's College London. I have recently graduated from [Makers Academy] (http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer alongside my studies.
-
-
-During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would also look for opportunities to continue with TDD (test-driven development) and pair programming in any future role.
 
 
 ## :book: <a name="skills">Skills</a>
@@ -17,10 +15,17 @@ During my time at Makers Academy I learned how to think more like a programmer, 
 - enjoying it, loving the smile relief afterwards but also the struggle, research, creativity, multiple solutions, one way is not working we try it another, I can't give up on a problem, working after hours for the makers academy final project to solve a problem, 
 
 #### Fast Learner
-- understanding fast, through problem solving skills, learning a new language, changing work environment or projects not a problem at all
+- understanding fast, through problem solving skills, learning a new language, changing work environment or projects not a problem at all, confident that I can learn everything with enough time, 
 
 #### Teamplayer, mentorship and teaching
 - Pair programming, helping others, patience. Feedback in groups, able to handle with criticism in an appropriate and constructive manner
+
+#### communication 
+-	Developed and improved strong language and communication skills through contact while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication also during Makers
+
+
+
+
 
 
 
@@ -37,14 +42,13 @@ During my time at Makers Academy I learned how to think more like a programmer, 
 **Makers Academy** _June - September'16_<br>
 
 Full-Stack Web Development <br>
-_Makers Academy is a fully immersive, full-time computer programming course in London. It is Europe's #1 Developer Bootcamp._
 
 | | Makers Academy Course Content|
 |---|---|
 | **Languages:** | Ruby, Javascript, HTML, CSS and SASS |
 | **Frameworks:** | Ruby on Rails, Node.js, Express, Sinatra |
 | **Databases:** | PostgreSQL, DataMapper, Active Record |
-| **Testing:** | RSpec, Jasmine, Capybara, Karma, Mocha, Chai, Phantom, Zombie, Casper
+| **Testing:** | RSpec, Jasmine, Capybara
 |**Principles:** | OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)
 
 <br> <br>
@@ -58,7 +62,6 @@ _German Abitur_ 1,3(AAA)<br>
 
 ----------
 
-
 ## <a name="reviews">Reviews</a>
 ------
 I asked my project group members for project and this is what I got back:
@@ -66,6 +69,12 @@ I asked my project group members for project and this is what I got back:
 ___"When you don't know something, you learn it very fast especially with your research skills"___ - Joe Sweeney
 
 ___"An excellent problem solver, that's your thing"___  -Ogulcan Girginc
+----------
+
+## <a name="interests">Interests and languages</a>
+- football
+- travel
+- German and Turkish: native proficiency, English: near native proficiency, French: limited working proficiency
 
 
 ## :envelope: <a name="contact">Contact</a>
