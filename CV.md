@@ -52,7 +52,7 @@ _Makers Academy is a fully immersive, full-time computer programming course in L
 _BSc(Hons) Economics and Management (avg. 85%)#_ <br>
 
 **Gymnasium Kreuzgasse (2006-2014)**<br>
-_German Abitur_ 1,3(AAA)
+_German Abitur_ 1,3(AAA)<br>
 **focus on:** Mathematics and Physics
 
 
