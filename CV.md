@@ -57,8 +57,6 @@ Full-Stack Web Development <br>
 - **focus on:** Mathematics and Physics
 
 
-----------
-
 ## <a name="reviews">Reviews</a>
 ------
 I asked my project group members for feedback and this is what I got back:
