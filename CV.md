@@ -13,10 +13,10 @@ As an Economics and Management student and recent [Makers Academy] (http://www.m
 ## :book: <a name="skills">Skills</a>
 ------
 #### Problem solving
-- enjoying it, loving the smile relief afterwards but also the struggle, research, creativity, multiple solutions, one way is not working we try it another, I can't give up on a problem, working after hours for the makers academy final project to solve a problem, 
+- enjoying it, loving the struggle on a problem and smile and relief afterwards, research, creativity, multiple solutions, one way is not working we try it another, I can't leave a problem unsolved,  worked after hours for the makers academy final project to solve a problem
 
 #### Fast Learner
-- understanding fast, through problem solving skills, learning a new language, changing work environment or projects not a problem at all, confident that I can learn everything with enough time, 
+- understanding fast through problem solving skills, learning a new language, changing work environment or projects not a problem at all, confident that I can learn everything with enough time, 
 
 #### Teamplayer, mentorship and teaching
 - Pair programming, helping others, patience. Feedback in groups, able to handle with criticism in an appropriate and constructive manner
