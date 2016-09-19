@@ -61,12 +61,11 @@ _German Abitur_ 1,3(AAA)<br>
 
 ## <a name="reviews">Reviews</a>
 ------
-I asked my classmates at Makers what they thought of me, here's what (some of them) said:
+I asked my project group members for project and this is what I got back:
 
-___"An excellent problem solver"___ - Joe Sweeney
+___"When you don't know something, you learn it very fast especially with your research skills"___ - Joe Sweeney
 
-___"learns new stuff very fast especially with his good research skills"___  -Ogulcan Girginc
-
+___"An excellent problem solver, that's your thing"___  -Ogulcan Girginc
 
 
 ## :envelope: <a name="contact">Contact</a>
