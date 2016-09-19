@@ -5,7 +5,7 @@
 :pencil2: 
 
 
-I am an Economics and Management student [Makers Academy](http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer besides my studies.
+I am an Economics and Management student at King's College London. I have recently graduated from [Makers Academy] (http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer alongside my studies.
 
 
 During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would also look for opportunities to continue with TDD (test-driven development) and pair programming in any future role.
@@ -47,8 +47,7 @@ _Makers Academy is a fully immersive, full-time computer programming course in L
 | **Testing:** | RSpec, Jasmine, Capybara, Karma, Mocha, Chai, Phantom, Zombie, Casper
 |**Principles:** | OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)
 
-
-
+<br> <br>
 **King's College London(2015-2018(expected))**<br>
 _BSc(Hons) Economics and Management (avg. 85%)#_ <br>
 
