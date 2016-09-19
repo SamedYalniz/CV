@@ -4,7 +4,9 @@
 
 :pencil2: 
 
- 
+
+
+As an Economics and Management student and recent [Makers Academy] (http://www.makersacademy.com/) junior web developer, I can't wait to join a company and sculpt code the world will use alongside my studies. 
 As an Economics and Management student at King's College London and [Makers Academy] (http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, graduate, I can't wait to work as a junior web developer and have the world using my code. 
 
 
