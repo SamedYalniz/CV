@@ -63,27 +63,9 @@ _German Abitur_ 1,3(AAA)
 ------
 I asked my classmates at Makers what they thought of me, here's what (some of them) said:
 
-___An excellent problem solver___
-<div class="rating" data-rate="2">
-  <i class="star-1">★</i>
-  <i class="star-2">★</i>
-  <i class="star-3">★</i>
-  <i class="star-4">★</i>
-  <i class="star-5">★</i>
-</div>
+___"An excellent problem solve"r___ - [Joe Sweeney]
 
-[Joe Sweeney]
-
-___A very fast learner___
-<div class="rating" data-rate="2">
-  <i class="star-1">★</i>
-  <i class="star-2">★</i>
-  <i class="star-3">★</i>
-  <i class="star-4">★</i>
-  <i class="star-5">★</i>
-</div>
-
-[Ogulcan Girginc]
+___"A very fast learne"r___  -[Ogulcan Girginc]
 
 
 
