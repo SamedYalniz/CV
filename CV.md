@@ -13,24 +13,24 @@ During my time at Makers Academy I learned how to think more like a programmer, 
 
 ## :book: <a name="skills">Skills</a>
 ------
-#### Commitment
-I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
+#### Problem solving
+- enjoying it, loving the smile afterwards, research, 
 
 #### Fast Learner
-The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards.
+- understanding fast, through problem solving skills, 
 
-These skills became even more apparent whilst at Makers Academy. For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
-- The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
+#### Teaching, Mentorship and Teamwork
+- Pair programming, helping others, patience. Feedback in groups, accepting critc
 
-#### Teaching and Mentorship
-I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I now volunteer as a coach at [codebar](https://codebar.io/)
+
+
 
 ## :computer: <a name="projects">Projects</a>
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
 
-| Cocktales  [Github](https://github.com/Cocktales/cocktales) | Final project at Makers Academy. A web application to create cocktails, search for cocktails with specific ingredients and share your cocktail moments with your friends | Ruby on Rails, PostgreSQL | Capybara, Rspec |
+| Cocktales  [Github](https://github.com/Cocktales/cocktales) [Presentation](https://www.youtube.com/watch?v=ctKEx68N7DU)| Final project at Makers Academy. A web application to create cocktails, search for cocktails with specific ingredients and share your cocktail moments with your friends | Ruby on Rails, PostgreSQL | Capybara, Rspec |
 | MakersBnB|  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 ## :mortar_board: <a name="education">Education</a>
@@ -86,11 +86,6 @@ ___A very fast learner___
 </div>
 
 [Ogulcan Girginc]
-
-
-
-
-
 
 
 
