@@ -71,9 +71,12 @@ ___"When you don't know something, you learn it very fast especially with your r
 ___"An excellent problem solver, that's your thing"___  -Ogulcan Girginc
 ----------
 
-## <a name="interests">Interests and languages</a>
+## <a name="interests">Interests</a>
 - football
 - travel
+
+
+## <a name="languages ">Languages</a>
 - German and Turkish: native proficiency, English: near native proficiency, French: limited working proficiency
 
 
