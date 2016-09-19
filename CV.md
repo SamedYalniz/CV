@@ -23,7 +23,9 @@ As an Economics and Management student at King's College London and [Makers Acad
 - Pair programming, helping others, patience. Feedback in groups, able to handle with criticism in an appropriate and constructive manner
 
 #### Communication 
--	Developed and improved strong language and communication skills while Makers Academy but also while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication
+-	Developed and improved strong language and communication skills while Makers Academy but also while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication 
+
+- Languages: German and Turkish: native proficiency, English: near native proficiency, French: limited working proficiency
 
 
 ## :computer: <a name="projects">Projects</a>
@@ -73,8 +75,7 @@ ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 - travel
 
 
-## <a name="languages ">Languages</a>
-- German and Turkish: native proficiency, English: near native proficiency, French: limited working proficiency
+
 
 
 ## :envelope: <a name="contact">Contact</a>
