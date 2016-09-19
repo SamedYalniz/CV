@@ -70,8 +70,8 @@ ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 ----------
 
 ## <a name="interests">Interests</a>
-- football
-- travel
+
+
 
 
 
