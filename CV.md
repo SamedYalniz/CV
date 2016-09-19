@@ -74,7 +74,7 @@ football:
  - played for 3 years in a local team in Cologne <br>
 
 travel: 
-- love travelling, lived in Australia for 9 months and travelled through South-East-Asia. Can't wait for the next              adventure
+- born in Germany, lived in Australia for a year, travelled through South-East-Asia and ended up in London.
 
 
 ## :envelope: <a name="contact">Contact</a>
