@@ -68,7 +68,7 @@ I asked my project group members for project and this is what I got back:
 
 ___"fast learner especially in combination with very good research skills"___ - Joe Sweeney
 
-___"An excellent problem solver, that's your thing!"___  -Ogulcan Girginc
+___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 
 ----------
 
