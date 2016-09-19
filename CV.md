@@ -67,7 +67,6 @@ ___"fast learner especially in combination with very good research skills"___ - 
 
 ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 
-----------
 
 ## <a name="interests">Interests</a>
 Football:
