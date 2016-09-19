@@ -51,13 +51,13 @@ _Makers Academy is a fully immersive, full-time computer programming course in L
 
 
 **King's College London(2015-2018(expected))**<br>
-_BSc(Hons) Economics and Management (avg. 85%) <br>
+_BSc(Hons) Economics and Management (avg. 85%)#_ <br>
 
 **Gymnasium Kreuzgasse (2006-2014)**<br>
 _German Abitur_ 1,3(AAA)
 **focus on:** Mathematics and Physics
 
-## :blue_book: <a name="experience">Experience</a>
+
 ----------
 
 
