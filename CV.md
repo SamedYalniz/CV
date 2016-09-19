@@ -6,14 +6,14 @@
 
 
 
-As an Economics and Management student and recent [Makers Academy] (http://www.makersacademy.com/) junior web developer, I can't wait to join a company and write code the world will use. 
+As an Economics and Management student and recent [Makers Academy] (http://www.makersacademy.com/) junior web developer, I can't wait to join a company and write code the world will use. Looking for a developer job alongside my studies. Why? Because I love coding
 
 
 
 ## :book: <a name="skills">Skills</a>
 ------
 #### Problem solving
-- enjoying it, loving the struggle on a problem and smile and relief afterwards, research, creativity, multiple solutions, one way is not working we try it another, I can't leave a problem unsolved,  worked after hours for the makers academy final project to solve a problem
+- enjoying it, loving the struggle on a problem and smile and relief afterwards, research, creativity, multiple solutions, one way is not working we try it another, I can't leave a problem unsolved,  worked after hours for the makers academy final project to solve a problem (when did you have to solve a problem) during makers academy in group projects
 
 #### Fast Learner
 - understanding fast through problem solving skills, learning a new language, changing work environment or projects not a problem at all, confident that I can learn everything with enough time, 
@@ -49,11 +49,11 @@ Full-Stack Web Development <br>
 |**Principles:** | OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)
 
 <br> <br>
-**King's College London(2015-2018(expected))**<br>
+**King's College London (2015-present, expected graduation in 2018)**<br>
 - _BSc(Hons) Economics and Management (1st year: avg. 85%)_ <br>
 
 **Gymnasium Kreuzgasse (2006-2014)**<br>
-- _German Abitur_ 1,3(AAA)<br>
+- _German Abitur_ 1,3(AAAA)<br>
 - **focus on:** Mathematics and Physics
 
 
