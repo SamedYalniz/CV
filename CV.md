@@ -50,7 +50,7 @@ Full-Stack Web Development <br>
 
 <br> <br>
 **King's College London(2015-2018(expected))**<br>
-_BSc(Hons) Economics and Management (avg. 85%)#_ <br>
+_BSc(Hons) Economics and Management (1st year: avg. 85%)_ <br>
 
 **Gymnasium Kreuzgasse (2006-2014)**<br>
 _German Abitur_ 1,3(AAA)<br>
