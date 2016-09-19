@@ -1,12 +1,12 @@
-# Anna Holland Smith
+# Samed Yalniz
 ----------
 [Skills](#skills) | [Education](#education) | [Projects](#projects) | [Reviews](#reviews) | [Contact](#contact)
 
 :pencil2: 
 
-I am a former Criminal Defence Lawyer excited to begin my career as a web developer.
 
-As a graduate of [Makers Academy](http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer.
+I am an Economics and Management student [Makers Academy](http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer besides my studies.
+
 
 During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would also look for opportunities to continue with TDD (test-driven development) and pair programming in any future role.
 
@@ -29,9 +29,9 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
-| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
-| Pear [Github](https://github.com/AnnaHollandSmith/pear) [Heroku](http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
-| MakersBnB [Github](https://github.com/AnnaHollandSmith/MakersBnB) [Heroku](https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
+
+| Cocktales  [Github](https://github.com/Cocktales/cocktales) | Final project at Makers Academy. A web application to create cocktails, search for cocktails with specific ingredients and share your cocktail moments with your friends | Ruby on Rails, PostgreSQL | Capybara, Rspec |
+| MakersBnB|  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 ## :mortar_board: <a name="education">Education</a>
 ---------
@@ -73,7 +73,25 @@ ___An excellent problem solver___
   <i class="star-4">★</i>
   <i class="star-5">★</i>
 </div>
+
 [Joe Sweeney]
+
+___A very fast learner___
+<div class="rating" data-rate="2">
+  <i class="star-1">★</i>
+  <i class="star-2">★</i>
+  <i class="star-3">★</i>
+  <i class="star-4">★</i>
+  <i class="star-5">★</i>
+</div>
+
+[Ogulcan Girginc]
+
+
+
+
+
+
 
 
 ## :envelope: <a name="contact">Contact</a>
