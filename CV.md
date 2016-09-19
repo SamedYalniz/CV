@@ -69,6 +69,7 @@ I asked my project group members for project and this is what I got back:
 ___"When you don't know something, you learn it very fast especially with your research skills"___ - Joe Sweeney
 
 ___"An excellent problem solver, that's your thing"___  -Ogulcan Girginc
+
 ----------
 
 ## <a name="interests">Interests</a>
