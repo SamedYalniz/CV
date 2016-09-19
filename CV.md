@@ -22,7 +22,7 @@ As an Economics and Management student and recent [Makers Academy] (http://www.m
 - Pair programming, helping others, patience. Feedback in groups, able to handle with criticism in an appropriate and constructive manner
 
 #### Communication 
--	Developed and improved strong language and communication skills while Makers Academy but also while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication 
+-	Developed and improved strong language and communication skills during my time at Makers Academy but also while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication 
 
 - Languages: German and Turkish: native proficiency, English: near native proficiency, French: limited working proficiency
 
