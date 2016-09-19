@@ -73,6 +73,9 @@ ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 football:
  - played for 3 years in a local team in Cologne <br>
 
+fitness and nutrition:
+- a healthy body leads to a healthy mind
+
 travel: 
 - born in Germany, lived in Australia for a year, travelled through South-East-Asia and ended up in London.
 
