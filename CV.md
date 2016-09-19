@@ -22,14 +22,8 @@ As an Economics and Management student at King's College London and [Makers Acad
 #### Teamplayer, mentorship and teaching
 - Pair programming, helping others, patience. Feedback in groups, able to handle with criticism in an appropriate and constructive manner
 
-#### communication 
--	Developed and improved strong language and communication skills through contact while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication also during Makers
-
-
-
-
-
-
+#### Communication 
+-	Developed and improved strong language and communication skills while Makers Academy but also while travelling through Australia, Indonesia, Malaysia, Singapore, Vietnam and Thailand, overcame language barriers by using verbal and non verbal communication also
 
 
 ## :computer: <a name="projects">Projects</a>
