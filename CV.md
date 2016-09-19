@@ -67,6 +67,7 @@ ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 
 
 ## <a name="interests">Interests</a>
+------
 Football:
  - played for 3 years in a local team in Cologne <br>
 
@@ -78,4 +79,4 @@ Travel:
 
 
 ## :envelope: <a name="contact">Contact</a>
-
+------
