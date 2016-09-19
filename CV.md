@@ -14,13 +14,13 @@ During my time at Makers Academy I learned how to think more like a programmer, 
 ## :book: <a name="skills">Skills</a>
 ------
 #### Problem solving
-- enjoying it, loving the smile afterwards, research, 
+- enjoying it, loving the smile relief afterwards but also the struggle, research, creativity, multiple solutions, one way is not working we try it another, I can't give up on a problem, working after hours for the makers academy final project to solve a problem, 
 
 #### Fast Learner
-- understanding fast, through problem solving skills, 
+- understanding fast, through problem solving skills, learning a new language, changing work environment or projects not a problem at all
 
-#### Teaching, Mentorship and Teamwork
-- Pair programming, helping others, patience. Feedback in groups, accepting critc
+#### Teamplayer, mentorship and teaching
+- Pair programming, helping others, patience. Feedback in groups, able to handle with criticism in an appropriate and constructive manner
 
 
 
@@ -63,9 +63,9 @@ _German Abitur_ 1,3(AAA)
 ------
 I asked my classmates at Makers what they thought of me, here's what (some of them) said:
 
-___"An excellent problem solve"r___ - [Joe Sweeney]
+___"An excellent problem solver"___ - Joe Sweeney
 
-___"A very fast learne"r___  -[Ogulcan Girginc]
+___"learns new stuff very fast especially with his good research skills"___  -Ogulcan Girginc
 
 
 
