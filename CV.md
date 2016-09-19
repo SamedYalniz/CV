@@ -6,7 +6,7 @@
 
 
 
-As an Economics and Management student and recent [Makers Academy] (http://www.makersacademy.com/) junior web developer, I can't wait to join a company and sculpt code the world will use.
+As an Economics and Management student and recent [Makers Academy] (http://www.makersacademy.com/) junior web developer, I can't wait to join a company and sculpt code the world will use. Being a web developer make
 
 
 
