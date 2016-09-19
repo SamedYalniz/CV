@@ -70,13 +70,13 @@ ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 ----------
 
 ## <a name="interests">Interests</a>
-football:
+Football:
  - played for 3 years in a local team in Cologne <br>
 
-fitness and nutrition:
+Fitness and Nutrition:
 - a healthy body leads to a healthy mind
 
-travel: 
+Travel: 
 - born in Germany, lived in Australia for a year, travelled through South-East-Asia and ended up in London.
 
 
