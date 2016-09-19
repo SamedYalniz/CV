@@ -72,6 +72,7 @@ ___"Problem cannot be solved? Samed will change your mind"___  -Ogulcan Girginc
 ## <a name="interests">Interests</a>
 football:
  - played for 3 years in a local team in Cologne <br>
+
 travel: 
 - love travelling, lived in Australia for 9 months and travelled through South-East-Asia. Can't wait for the next              adventure
 
